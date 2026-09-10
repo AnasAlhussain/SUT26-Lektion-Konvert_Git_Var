@@ -52,4 +52,14 @@
 
         }
     }
+
+
+    class User
+    {
+
+    }
+    class Student
+    {
+
+    }
 }
